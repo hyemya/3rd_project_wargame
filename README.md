@@ -16,7 +16,7 @@
 | Problem 05 — Android Pattern Lock | [`Problem05_AndroidPatternLock_워크스루.pdf`](<./Problem05_AndroidPatternLock_워크스루.pdf>) |
 | Problem 06 — Guide NPC | [`Problem06_GuideNPC_워크스루.pdf`](<./Problem06_GuideNPC_워크스루.pdf>) |
 | Problem 07 — ESTsoft ALZ 파일 검증기(File Upload) | [`Problem07_File_Upload_워크스루.pdf`](<./Problem07_File_Upload_워크스루.pdf>) |
-| Problem 08 — Hidden Keys | [`problem08_HiddenKeys_워크스루.pdf`](<./problem08_HiddenKeys_워크스루.pdf>) |
+| Problem 08 — Hidden Keys | [`Problem08_HiddenKeys_워크스루.pdf`](<./Problem08_HiddenKeys_워크스루.pdf>) |
 | Problem 09 — Reflected XSS | [`Problem09_ReflectedXSS_워크스루.pdf`](<./Problem09_ReflectedXSS_워크스루.pdf>) |
 | Problem 10 — Blind Administrator | [`Problem10_Blind_Administrator_워크스루.pdf`](<./Problem10_Blind_Administrator_워크스루.pdf>) |
 
