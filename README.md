@@ -5,6 +5,8 @@
 
 ![8low8lowme wargame main page](./main_page.png)
 
+![8low8lowme wargame challenges page](./challenges_page.png)
+
 **8low8lowme**(= "Follow Follow me") 팀이 직접 설계·구현한 10개의 웹 해킹 문제(problem01~10)에 대한 침투 테스트 워크스루 보고서 저장소입니다. 각 문제는 정찰부터 취약점 재현, 근본 원인 분석까지 정리한 PDF 보고서로 문서화되어 있습니다.
 
 ## 저장소 구성
